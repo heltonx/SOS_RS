@@ -103,5 +103,6 @@ https://bacananews.com.br/confira-a-cronologia-da-tragedia-no-rio-grande-do-sul/
 
 https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/05/12/a-cronologia-da-tragedia-no-rio-grande-do-sul.ghtml
 
+https://www.bbc.com/portuguese/articles/cd1qwpg3z77o
 
 
