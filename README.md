@@ -10,6 +10,9 @@ links úteis para auxílio às vitimas e informações sobre as enchentes no Rio
 INFORMAÇÕES CENTRALIZADAS - LINKS ÚTEIS
 ------------
 
+PESQUISAR PESSOAS RESGATADAS
+https://estousalvo-rs.com.br/
+
 https://bento.me/ajudars?fbclid=PAZXh0bgNhZW0CMTEAAaYkg_6tae3M7R4K2fVASOqvSpxoHdi0q5hZ2jWv6aFeJXsaz3DK7Dvb8zY_aem_AYcxJMOHqKcfKNnXPrRAE4N
 
 https://www.passageira.com.br/enchentes-no-rs-todos-os-links-uteis-sobre-doacoes-abrigos-rotas-e-voluntariado/
