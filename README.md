@@ -14,6 +14,12 @@ PESQUISAR PESSOAS RESGATADAS
 
 https://estousalvo-rs.com.br/
 
+https://www.buscaresgatados.com/
+
+https://www.achados-e-perdidos-rs.com.br/
+
+https://www.tosalvo.ong.br/
+
 ÁREAS DE RISCO / ABRIGOS E DOAÇÕES / ETC
 
 https://bento.me/ajudars
