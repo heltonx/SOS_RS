@@ -60,7 +60,7 @@ https://satellitemap.space/
 https://www.starlinkmap.org/
 
 ------------
-INFORMAÇÕES SOBRE UM CARRO ABANDONADO PELA PLACA
+INFORMAÇÕES SOBRE CARROS ABANDONADOS PELA PLACA
 ------------
 
 https://www.qualveiculo.net/
