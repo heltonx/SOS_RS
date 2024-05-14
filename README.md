@@ -28,7 +28,7 @@ ESTATÍSTICAS / PREVISÕES / INFORMAÇÕES
 
 https://storymaps.arcgis.com/stories/a81d69f4bccf42989609e3fe64d8ef48
 
-MAIS LINKS ÚTEIS E INFORMAÇÕES SOBRE ABRIGOS
+VÁRIAS VAKINHAS DOAÇÕES E MAIS LINKS ÚTEIS E INFORMAÇÕES SOBRE ABRIGOS
 
 https://www.passageira.com.br/enchentes-no-rs-todos-os-links-uteis-sobre-doacoes-abrigos-rotas-e-voluntariado/
 
