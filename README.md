@@ -32,6 +32,11 @@ VÁRIAS VAKINHAS DOAÇÕES E MAIS LINKS ÚTEIS E INFORMAÇÕES SOBRE ABRIGOS
 
 https://www.passageira.com.br/enchentes-no-rs-todos-os-links-uteis-sobre-doacoes-abrigos-rotas-e-voluntariado/
 
+CONFIGURAR CELULAR PARA ACESSAR SINAL DE OUTRAS PESSOAS GRATUITAMENTE
+
+https://www.instagram.com/p/C6rUi0KONzz/?igsh=dzF5MjZ6bTlxdDhz&img_index=1
+
+
 ------------
 DEFESA CIVIL
 ------------
