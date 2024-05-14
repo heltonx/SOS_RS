@@ -30,18 +30,23 @@ MAPAS EM TEMPO REAL
 ------------
 
 VENTOS
+
 https://www.windy.com/
 
 VÔOS RIO GRANDE DO SUL
+
 https://www.flightradar24.com/-30.07,-55.26/6
 
 RÁDIOS PORTO ALEGRE E DEMAIS CIDADES DO RS
+
 https://radio.garden/visit/porto-alegre-rs/cBuAeAW4
 
 DIVERSOS MAPAS INFORMATIVOS SOBRE A TRAGÉDIA
+
 https://www.cnnbrasil.com.br/nacional/enchente-no-rs-mapas-interativos-mostram-locais-afetados-pela-chuva-veja
 
 MAPA ENCHENTE 6 DE MAIO
+
 https://www.poder360.com.br/brasil/mapas-mostram-areas-mais-atingidas-pelas-enchentes-no-rs
 
 ------------
