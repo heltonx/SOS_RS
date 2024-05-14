@@ -1,7 +1,7 @@
 # SOS_RS
 Coletânea de LINKS ÚTEIS para AUXÍLIO às vitimas e INFORMAÇÕES sobre as ENCHENTES no RIO GRANDE DO SUL
 
-ATENÇÃO: Em caso de dúvida sempre confirmar com as autoridades oficiais (Defesa Civil, Brigada Militar, etc)
+ATENÇÃO: Em caso de dúvida sempre confirmar com as autoridades oficiais (Defesa Civil, Brigada Militar, governo do RS etc)
 
 <p align="center">
   <img src="https://github.com/heltonx/SOS_RS/assets/52825808/0bf8b97b-04e3-434b-9a91-c3f1218aa391" width=360px height=250px />
@@ -11,6 +11,10 @@ ATENÇÃO: Em caso de dúvida sempre confirmar com as autoridades oficiais (Defe
 ------------
 INFORMAÇÕES CENTRALIZADAS - LINKS ÚTEIS
 ------------
+
+NOTÍCIAS ATUALIZADAS DO JORNALISTA POLIBIO BRAGA
+
+https://polibiobraga.blogspot.com/
 
 PESQUISAR PESSOAS RESGATADAS
 
