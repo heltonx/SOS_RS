@@ -16,7 +16,7 @@ https://estousalvo-rs.com.br/
 
 ÁREAS DE RISCO / ABRIGOS E DOAÇÕES / ETC
 
-https://bento.me/ajudars?fbclid=PAZXh0bgNhZW0CMTEAAaYkg_6tae3M7R4K2fVASOqvSpxoHdi0q5hZ2jWv6aFeJXsaz3DK7Dvb8zY_aem_AYcxJMOHqKcfKNnXPrRAE4N
+https://bento.me/ajudars
 
 ESTATÍSTICAS / PREVISÕES / INFORMAÇÕES
 
