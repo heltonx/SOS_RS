@@ -68,7 +68,7 @@ RÁDIOS PORTO ALEGRE E DEMAIS CIDADES DO RS
 
 https://radio.garden/visit/porto-alegre-rs/cBuAeAW4
 
-DIVERSOS MAPAS INFORMATIVOS SOBRE A TRAGÉDIA
+DIVERSOS MAPAS INFORMATIVOS SOBRE AS ENCHENTES E LOCAIS AFETADOS
 
 https://www.cnnbrasil.com.br/nacional/enchente-no-rs-mapas-interativos-mostram-locais-afetados-pela-chuva-veja
 
