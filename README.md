@@ -29,15 +29,20 @@ https://www.defesacivil.rs.gov.br/links-uteis-64d674c5112fe
 MAPAS EM TEMPO REAL
 ------------
 
-https://www.windy.com/ (VENTOS)
+VENTOS
+https://www.windy.com/
 
-https://www.flightradar24.com/-30.07,-55.26/6 (VÔOS RIO GRANDE DO SUL)
+VÔOS RIO GRANDE DO SUL
+https://www.flightradar24.com/-30.07,-55.26/6
 
-https://radio.garden/visit/porto-alegre-rs/cBuAeAW4 (RÁDIOS PORTO ALEGRE E DEMAIS CIDADES DO RS)
+RÁDIOS PORTO ALEGRE E DEMAIS CIDADES DO RS
+https://radio.garden/visit/porto-alegre-rs/cBuAeAW4
 
-https://www.cnnbrasil.com.br/nacional/enchente-no-rs-mapas-interativos-mostram-locais-afetados-pela-chuva-veja/ (DIVERSOS MAPAS INFORMATIVOS SOBRE A TRAGÉDIA)
+DIVERSOS MAPAS INFORMATIVOS SOBRE A TRAGÉDIA
+https://www.cnnbrasil.com.br/nacional/enchente-no-rs-mapas-interativos-mostram-locais-afetados-pela-chuva-veja
 
-https://www.poder360.com.br/brasil/mapas-mostram-areas-mais-atingidas-pelas-enchentes-no-rs/ (MAPA ENCHENTE 6 DE MAIO)
+MAPA ENCHENTE 6 DE MAIO
+https://www.poder360.com.br/brasil/mapas-mostram-areas-mais-atingidas-pelas-enchentes-no-rs
 
 ------------
 STARLINK (SATELITES AND AVAILABILITY)
