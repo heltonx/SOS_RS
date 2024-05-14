@@ -11,13 +11,20 @@ INFORMAÇÕES CENTRALIZADAS - LINKS ÚTEIS
 ------------
 
 PESQUISAR PESSOAS RESGATADAS
+
 https://estousalvo-rs.com.br/
+
+ÁREAS DE RISCO / ABRIGOS E DOAÇÕES / ETC
 
 https://bento.me/ajudars?fbclid=PAZXh0bgNhZW0CMTEAAaYkg_6tae3M7R4K2fVASOqvSpxoHdi0q5hZ2jWv6aFeJXsaz3DK7Dvb8zY_aem_AYcxJMOHqKcfKNnXPrRAE4N
 
-https://www.passageira.com.br/enchentes-no-rs-todos-os-links-uteis-sobre-doacoes-abrigos-rotas-e-voluntariado/
+ESTATÍSTICAS / PREVISÕES / INFORMAÇÕES
 
 https://storymaps.arcgis.com/stories/a81d69f4bccf42989609e3fe64d8ef48
+
+MAIS LINKS ÚTEIS E INFORMAÇÕES SOBRE ABRIGOS
+
+https://www.passageira.com.br/enchentes-no-rs-todos-os-links-uteis-sobre-doacoes-abrigos-rotas-e-voluntariado/
 
 ------------
 DEFESA CIVIL
