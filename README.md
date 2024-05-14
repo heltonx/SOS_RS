@@ -49,8 +49,11 @@ https://www.defesacivil.rs.gov.br/links-uteis-64d674c5112fe
 
 
 ------------
-MAPAS EM TEMPO REAL
+MAPAS E GRÁFICOS EM TEMPO REAL
 ------------
+
+NÍVEL DAS ÁGUAS DO GUAÍBA EM TEMPO REAL
+https://nivelguaiba.com
 
 VENTOS
 
