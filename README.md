@@ -1,5 +1,5 @@
 # SOS_RS
-links úteis para auxílio na às vitimas das enchentes no Rio Grande do Sul
+links úteis para auxílio às vitimas e informações sobre as enchentes no Rio Grande do Sul
 
 <p align="center">
   <img src="https://github.com/heltonx/SOS_RS/assets/52825808/0bf8b97b-04e3-434b-9a91-c3f1218aa391" width=360px height=250px />
