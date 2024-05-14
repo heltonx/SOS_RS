@@ -12,10 +12,6 @@ ATENÇÃO: Em caso de dúvida sempre confirmar com as autoridades oficiais (Defe
 INFORMAÇÕES CENTRALIZADAS - LINKS ÚTEIS
 ------------
 
-NOTÍCIAS ATUALIZADAS DO JORNALISTA POLIBIO BRAGA
-
-https://polibiobraga.blogspot.com/
-
 PESQUISAR PESSOAS RESGATADAS
 
 https://estousalvo-rs.com.br/
@@ -42,6 +38,9 @@ CONFIGURAR CELULAR PARA ACESSAR SINAL DE OUTRAS OPERADORAS GRATUITAMENTE
 
 https://www.instagram.com/p/C6rUi0KONzz/?igsh=dzF5MjZ6bTlxdDhz&img_index=1
 
+NOTÍCIAS ATUALIZADAS DO JORNALISTA POLIBIO BRAGA
+
+https://polibiobraga.blogspot.com/
 
 ------------
 DEFESA CIVIL
