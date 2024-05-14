@@ -49,6 +49,10 @@ VENTOS
 
 https://www.windy.com/
 
+BLOQUEIOS RODOVIAS RS
+
+https://www.google.com/maps/d/u/0/viewer?hl=pt-BR&ll=-29.02055223012813%2C-52.55289282658777&z=8&mid=1ZlKA__gK8tH-WY6mbDeQzltsiwao7Q8
+
 VÔOS RIO GRANDE DO SUL
 
 https://www.flightradar24.com/-30.07,-55.26/6
