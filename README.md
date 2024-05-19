@@ -97,9 +97,9 @@ https://www.starlinkmap.org/
 INFORMAÇÕES SOBRE CARROS ABANDONADOS PELA PLACA
 ------------
 
-https://www.qualveiculo.net/
+https://www.qualveiculo.net
 
-https://www.keplaca.com/
+https://www.keplaca.com
 
 
 ------------
