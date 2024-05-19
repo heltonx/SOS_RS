@@ -84,6 +84,7 @@ MAPA ENCHENTE 6 DE MAIO
 
 https://www.poder360.com.br/brasil/mapas-mostram-areas-mais-atingidas-pelas-enchentes-no-rs
 
+
 ------------
 STARLINK (SATELITES AND AVAILABILITY)
 ------------
@@ -93,6 +94,7 @@ https://www.starlink.com/map
 https://satellitemap.space/
 
 https://www.starlinkmap.org/
+
 
 ------------
 INFORMAÇÕES SOBRE CARROS ABANDONADOS PELA PLACA
