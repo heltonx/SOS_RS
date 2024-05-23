@@ -92,9 +92,9 @@ STARLINK (SATELITES AND AVAILABILITY)
 
 https://www.starlink.com/map
 
-https://satellitemap.space/
+https://satellitemap.space
 
-https://www.starlinkmap.org/
+https://www.starlinkmap.org
 
 
 ------------
