@@ -59,6 +59,9 @@ https://www.defesacivil.rs.gov.br/links-uteis-64d674c5112fe
 MAPAS E GRÁFICOS EM TEMPO REAL
 ------------
 
+MAPAS METEOROLOGIA
+
+https://portal.inmet.gov.br
 
 NÍVEL DAS ÁGUAS DO GUAÍBA EM TEMPO REAL
 
