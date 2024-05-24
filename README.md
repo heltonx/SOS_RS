@@ -40,10 +40,6 @@ CONFIGURAR CELULAR PARA ACESSAR SINAL DE OUTRAS OPERADORAS GRATUITAMENTE
 
 https://www.instagram.com/p/C6rUi0KONzz/?igsh=dzF5MjZ6bTlxdDhz&img_index=1
 
-NOTÍCIAS ATUALIZADAS DO JORNALISTA POLIBIO BRAGA
-
-https://polibiobraga.blogspot.com/
-
 ------------
 DEFESA CIVIL
 ------------
@@ -116,4 +112,11 @@ https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/05/12/a-cronologia-da-tra
 
 https://www.bbc.com/portuguese/articles/cd1qwpg3z77o
 
+------------
+NOTÍCIAS
+------------
+
+NOTÍCIAS ATUALIZADAS DO JORNALISTA POLIBIO BRAGA
+
+https://polibiobraga.blogspot.com
 
