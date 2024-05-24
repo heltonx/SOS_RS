@@ -44,6 +44,10 @@ CONFIGURAR CELULAR PARA ACESSAR SINAL DE OUTRAS OPERADORAS GRATUITAMENTE
 
 https://www.instagram.com/p/C6rUi0KONzz/?igsh=dzF5MjZ6bTlxdDhz&img_index=1
 
+INFORMAÇÕES AUXÍLIOS GOVERNO FEDERAL
+
+https://www.gov.br/mdr/pt-br/auxilioreconstrucao
+
 ------------
 DEFESA CIVIL
 ------------
