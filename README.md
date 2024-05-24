@@ -48,6 +48,8 @@ https://www.instagram.com/p/C6rUi0KONzz/?igsh=dzF5MjZ6bTlxdDhz&img_index=1
 DEFESA CIVIL
 ------------
 
+https://www.defesacivil.rs.gov.br/inicial
+
 https://www.defesacivil.rs.gov.br/links-uteis
 
 https://www.defesacivil.rs.gov.br/links-uteis-64d674c5112fe
