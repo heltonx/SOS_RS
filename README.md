@@ -14,6 +14,10 @@ ATENÇÃO: Sempre que possível validar e atualizar-se com as autoridades oficia
 INFORMAÇÕES CENTRALIZADAS - LINKS ÚTEIS
 ------------
 
+INFORMAÇÕES CENTRALIZADAS OFICIAIS ESTADO RS
+
+https://sosenchentes.rs.gov.br/inicial
+
 PESQUISAR PESSOAS RESGATADAS
 
 https://estousalvo-rs.com.br/
@@ -52,6 +56,7 @@ https://www.defesacivil.rs.gov.br/links-uteis-64d674c5112fe
 ------------
 MAPAS E GRÁFICOS EM TEMPO REAL
 ------------
+
 
 NÍVEL DAS ÁGUAS DO GUAÍBA EM TEMPO REAL
 
