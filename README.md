@@ -116,7 +116,7 @@ https://www.bbc.com/portuguese/articles/cd1qwpg3z77o
 NOTÍCIAS
 ------------
 
-NOTÍCIAS ATUALIZADAS DO JORNALISTA POLIBIO BRAGA
+JORNALISTA POLIBIO BRAGA
 
 https://polibiobraga.blogspot.com
 
