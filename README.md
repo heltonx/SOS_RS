@@ -1,6 +1,6 @@
 # SOS_RS
 
-Coletânea de LINKS ÚTEIS para AUXÍLIO às vitimas e INFORMAÇÕES (incluindo links para mapas em tempo real) sobre as ENCHENTES no RIO GRANDE DO SUL
+Coletânea de LINKS ÚTEIS para AUXÍLIO às vitimas e INFORMAÇÕES (incluindo links para informações e mapas em tempo real) sobre as ENCHENTES no RIO GRANDE DO SUL
 
 ATENÇÃO: Sempre validar e atualizar-se com as autoridades oficiais (Defesa Civil, Brigada Militar, governos do RS e Federal, municípios, etc)
 
