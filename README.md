@@ -26,7 +26,7 @@ https://www.buscaresgatados.com
 
 https://www.achados-e-perdidos-rs.com.br
 
-https://www.tosalvo.ong.br/
+https://www.tosalvo.ong.br
 
 ÁREAS DE RISCO / ABRIGOS E DOAÇÕES / ETC
 
