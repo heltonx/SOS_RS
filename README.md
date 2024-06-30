@@ -20,11 +20,11 @@ https://sosenchentes.rs.gov.br/inicial
 
 PESQUISAR PESSOAS RESGATADAS
 
-https://estousalvo-rs.com.br/
+https://estousalvo-rs.com.br
 
 https://www.buscaresgatados.com/
 
-https://www.achados-e-perdidos-rs.com.br/
+https://www.achados-e-perdidos-rs.com.br
 
 https://www.tosalvo.ong.br/
 
