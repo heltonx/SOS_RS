@@ -77,7 +77,7 @@ https://nivelguaiba.com
 
 VENTOS
 
-https://www.windy.com/
+https://www.windy.com
 
 BLOQUEIOS RODOVIAS RS
 
