@@ -14,6 +14,10 @@ ATENÇÃO : Sempre validar e atualizar-se com as autoridades oficiais (Defesa Ci
 INFORMAÇÕES CENTRALIZADAS - LINKS ÚTEIS
 ------------
 
+Gratuito  - Acolhimento de Saúde para as famílias afetadas pelas recentes enchentes no Rio Grande do Sul
+
+https://lp.tutti.vc/sosrs?ustr_uid=erXO2DoSlajHc96v9OCybdefrU4lVVL5aJ1bgvwaUPu8P7Gp8hrpEwetH96bbkIgvikpE5koFYcWE6wjbvCudA%3D%3D
+
 INFORMAÇÕES CENTRALIZADAS OFICIAIS ESTADO RS
 
 https://sosenchentes.rs.gov.br/inicial
