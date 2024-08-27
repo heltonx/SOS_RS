@@ -1,6 +1,6 @@
 # SOS_RS
 
-Coletânea de links úteis para orientação, auxílio às vitimas e informações (incluindo links para informações e mapas em tempo real) sobre as enchentes no RS
+Coletânea de links úteis para orientação, auxílio às vitimas e informações (incluindo links para informações e mapas em tempo real) sobre as enchentes no Rio Grande do Sul.
 
 ATENÇÃO : Sempre validar e atualizar-se com as autoridades oficiais (Defesa Civil, Brigada Militar, governos do RS e Federal, municípios, etc)
 
